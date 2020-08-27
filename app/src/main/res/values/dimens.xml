@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_padding_top">24dp</dimen>
+    <dimen name="top_padding_others">18dp</dimen>
+    <dimen name="top_padding_top_land">12dp</dimen>
+
+</resources>
